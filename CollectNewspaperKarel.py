@@ -1,6 +1,6 @@
 """
 File: CollectNewspaperKarel.py
-Name: 
+Name: Andrew
 --------------------------------
 At the start, this program does nothing.
 
